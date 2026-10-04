@@ -1,0 +1,42 @@
+{
+  "plumber": {
+    "sink_leak_repair": { "price_min_inr": 300, "price_max_inr": 800 },
+    "tap_replacement": { "price_min_inr": 200, "price_max_inr": 600 },
+    "pipe_leak_repair": { "price_min_inr": 400, "price_max_inr": 1200 },
+    "toilet_repair": { "price_min_inr": 400, "price_max_inr": 1000 },
+    "drain_cleaning": { "price_min_inr": 500, "price_max_inr": 1500 },
+    "general_callout": { "price_min_inr": 250, "price_max_inr": 600 }
+  },
+  "electrician": {
+    "switchboard_wiring": { "price_min_inr": 400, "price_max_inr": 1200 },
+    "fan_installation": { "price_min_inr": 300, "price_max_inr": 800 },
+    "light_fixing": { "price_min_inr": 200, "price_max_inr": 600 },
+    "socket_replacement": { "price_min_inr": 250, "price_max_inr": 700 },
+    "short_circuit_diagnosis": { "price_min_inr": 500, "price_max_inr": 1500 },
+    "general_callout": { "price_min_inr": 300, "price_max_inr": 700 }
+  },
+  "ac_appliance_repair": {
+    "ac_gas_refill": { "price_min_inr": 800, "price_max_inr": 2000 },
+    "ac_leak_repair": { "price_min_inr": 600, "price_max_inr": 1500 },
+    "ac_service": { "price_min_inr": 500, "price_max_inr": 1200 },
+    "ac_installation": { "price_min_inr": 1000, "price_max_inr": 2500 },
+    "appliance_repair_general": { "price_min_inr": 400, "price_max_inr": 1200 },
+    "general_callout": { "price_min_inr": 300, "price_max_inr": 800 }
+  },
+  "cleaner": {
+    "home_deep_clean_1bhk": { "price_min_inr": 1200, "price_max_inr": 2500 },
+    "home_deep_clean_2bhk": { "price_min_inr": 1800, "price_max_inr": 3500 },
+    "home_deep_clean_3bhk": { "price_min_inr": 2500, "price_max_inr": 5000 },
+    "kitchen_cleaning": { "price_min_inr": 600, "price_max_inr": 1500 },
+    "bathroom_cleaning": { "price_min_inr": 400, "price_max_inr": 1000 },
+    "general_callout": { "price_min_inr": 300, "price_max_inr": 700 }
+  },
+  "mechanic": {
+    "bike_basic_service": { "price_min_inr": 400, "price_max_inr": 900 },
+    "car_basic_service": { "price_min_inr": 800, "price_max_inr": 2000 },
+    "battery_replacement": { "price_min_inr": 300, "price_max_inr": 800 },
+    "brake_repair": { "price_min_inr": 500, "price_max_inr": 1500 },
+    "engine_diagnosis": { "price_min_inr": 600, "price_max_inr": 1500 },
+    "general_callout": { "price_min_inr": 400, "price_max_inr": 1000 }
+  }
+}
